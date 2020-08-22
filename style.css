@@ -1,0 +1,22 @@
+.jumbotron {
+    font-family: 'Patua One', cursive;
+    background-color: cadetblue;
+    text-align: center;
+    margin: 70px;
+}
+.search-term {
+    text-align: left;
+    margin: 70px;
+}
+.record-number {
+    text-align: left;
+    margin: 70px;
+}
+.start-year {
+    text-align: left;
+    margin: 70px;
+}
+.end-year {
+    text-align: left;
+    margin: 70px;
+}
